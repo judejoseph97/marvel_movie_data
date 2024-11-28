@@ -1,0 +1,47 @@
+Business Problems to Solve:
+
+
+Revenue Trends:
+
+What are the revenue trends for Marvel movies over the years?
+Which movies generated the highest and lowest revenues, and why might that be?
+
+
+
+Budget vs. Revenue:
+
+How does the budget correlate with revenue?
+Is there a specific budget range where movies tend to be most profitable?
+
+
+Genre and Success:
+
+Which genres or sub-genres within Marvel movies perform the best in terms of revenue and critical reception?
+
+
+Critical and Audience Response:
+
+How do audience ratings (e.g., IMDb, Rotten Tomatoes) correlate with box office performance?
+Do critically acclaimed movies consistently outperform others in terms of revenue?
+
+
+Seasonal Trends:
+
+Is there an optimal time of year for releasing Marvel movies to maximize revenue and viewership?
+
+
+Actor and Director Impact:
+
+Do specific directors or lead actors have a significant impact on a movie's financial success or critical reception?
+
+
+Franchise Evolution:
+
+How has the popularity of the Marvel Cinematic Universe evolved over time?
+What patterns emerge when analyzing phases of the MCU?
+
+
+Market Strategy:
+
+How do Marvel movies perform in international markets compared to domestic ones?
+What insights can we gain about target audiences based on regional performance?
